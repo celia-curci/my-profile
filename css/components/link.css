@@ -1,0 +1,13 @@
+.link-bold {
+  	font-family: "roboto";
+  	font-optical-sizing: auto;
+  	font-size: 17px;
+	line-height: 1.5;
+	font-weight: bold;
+	color:#1D5C63
+} 
+
+.link-bold:hover {
+	color: pink;
+	transition: 0.1s;
+}
